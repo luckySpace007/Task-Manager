@@ -7,6 +7,13 @@
 - **Dynamic Sorting**: Tasks are sorted by priority, with high-priority tasks at the top.
 - **Responsive Design**: The app is designed to be user-friendly on various devices.
 
+##  Brief Description About sorting tasks by priority.
+
+- first we make a variable named priority order In which we have to take 1 object. 
+- that object includes high as 1 , medium as 2 and low as 3.
+- After that simply sort that into asending order.
+- By using 2 parameters a and b.
+
 ## Technologies Used
 
 - **Next.js**: Framework for server-side rendering and building React applications.
